@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.springboot.jhipster"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "monolith",
+    "baseName": "BloodDonor",
+    "packageName": "org.springboot.jhipster",
+    "packageFolder": "org/springboot/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmNjMzM0ZDQ0OWFhNDUzNGRlNDVjY2Y1ZGJiZTliOTc1ZDQyM2E2OTg0YzNjYmQ3YzM0ZmZiNWI5MTA1NDkyMDljMjI1OWIyYzIwMjg4Y2Y2NGU1ZjQ2MmRhYTQ3NDZkNzYyYWUyMzM0NzJjNmQxODU5NjBkMTVkYmQwMTU2MDY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "cosmo",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1585790831027,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
